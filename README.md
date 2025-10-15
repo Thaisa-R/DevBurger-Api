@@ -73,3 +73,6 @@ Ferramentas de Desenvolvimento:
 Insomnia: Utilizado para testar e documentar todos os endpoints (CRUD).
 
 Postbird / MongoDB Compass: Ferramenta(s) de visualização e gerenciamento do banco de dados.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d83dd8e4-c8ef-4775-8bc8-726a1e750523" />
+
