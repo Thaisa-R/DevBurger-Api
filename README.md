@@ -74,5 +74,11 @@ Insomnia: Utilizado para testar e documentar todos os endpoints (CRUD).
 
 Postbird / MongoDB Compass: Ferramenta(s) de visualização e gerenciamento do banco de dados.
 
+<img width="1919" height="875" alt="image" src="https://github.com/user-attachments/assets/6389fcca-24e0-4235-b7ec-e5f19d8d0235" />
+
+<img width="1918" height="878" alt="image" src="https://github.com/user-attachments/assets/c8fff442-8bcf-4896-be2e-c27f3e634457" />
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d83dd8e4-c8ef-4775-8bc8-726a1e750523" />
+
+
 
